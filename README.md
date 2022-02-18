@@ -30,7 +30,8 @@ npx hardhat run --network testnet scripts/1_token_deploys.js
 ALCHEMY_API_KEY=
 ETHERSCAN_API_KEY=
 BSCSCAN_API_KEY=
-ROPSTEN_URL=https://ropsten.infura.io/v3/{API_KEY}
+ROPSTEN_URL=https://ropsten.infura.io/v3/{API_KEY} 
+
 BSC_TESTNET_URL=https://speedy-nodes-nyc.moralis.io/{YOUR_KEY}/bsc/testnet
 PRIVATE_KEY=
 
